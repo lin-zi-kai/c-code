@@ -1,0 +1,3 @@
+﻿  num.c
+F:\C语言\num\num\num.c(20,36): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  num.vcxproj -> F:\C语言\num\Debug\num.exe

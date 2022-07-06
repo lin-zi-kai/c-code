@@ -1,0 +1,6 @@
+﻿  game2048.c
+F:\C语言\game2048\game2048\game2048.c(115,14): warning C4013: “contrast”未定义；假设外部返回 int
+  test.c
+F:\C语言\game2048\game2048\test.c(28,15): warning C4013: “copyboard”未定义；假设外部返回 int
+  正在生成代码...
+  game2048.vcxproj -> F:\C语言\game2048\x64\Debug\game2048.exe
